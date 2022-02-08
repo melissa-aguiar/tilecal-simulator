@@ -1,1 +1,1 @@
-# atlas-simulator
+# Pulse simulator
